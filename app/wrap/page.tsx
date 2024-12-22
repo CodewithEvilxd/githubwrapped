@@ -191,7 +191,7 @@ const page = async ({
               </div>
               <div className="text-gray-400 text-underline text-center text-base">
                 {" "}
-                wrappedcode.vercel.app
+                githubwrapped.onrender.com
               </div>
             </div>
           </div>
@@ -200,7 +200,7 @@ const page = async ({
           <DownloadButton targetId="wrap" name={name} />
           <div>
             <Link
-              href="https://x.com/intent/tweet?text=I%20generated%20my%202024%20wrapped.%20Generate%20your%27s%20now%20!&url=https%3A%2F%2Fwrappedcode.vercel.app%2F&hashtags=githubwrapped"
+              href="https://x.com/intent/tweet?text=I%20generated%20my%202024%20wrapped.%20Generate%20your%27s%20now%20!&url=https%3A%2F%2Fgithubwrapped.onrender.com%2F&hashtags=githubwrapped"
               className="inline-flex items-center sm:px-4 sm:py-2 p-1 bg-blue-400 hover:bg-blue-500 text-white text-sm transition-colors duration-300 shadow-lg hover:shadow-xl rounded font-bold"
               target="_blank"
             >
